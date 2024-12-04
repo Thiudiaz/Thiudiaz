@@ -4,7 +4,7 @@
 - 💼 Hoje trabalho com Front-end
 - 🌱 Estudando Typescript e React
 - 😄 Pronouns:ele/dele
-- ⛈️ Aprimorarando meu Back-end também
+- ⛈️ Aprimorando meu Back-end também
 - 🎲 Estou a procura de uma Oportunidade
 - 📚 Conhecimento em Bibliotecas Tailwind e Bootstrap
 - 🔭Focado nos estudos para ser um Desenvolvedor Fullstack
